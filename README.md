@@ -1,2 +1,2 @@
 # Catalogo_Animes
-Site teste de um catálogo de animes.
+Site teste de um catálogo, programação e galeria de animes.
